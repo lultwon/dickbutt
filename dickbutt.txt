@@ -1,1 +1,3 @@
-dick(butt);
+if ((n > e) != 1) {
+	dick(butt);
+}
